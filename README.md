@@ -1,7 +1,7 @@
 <h1>Hi, I'm Sai Pranav! <br/>
 <a href="https://github.com/YOUR_USERNAME">Data Engineer</a>, 
 <a href="https://www.linkedin.com/">Backend Developer</a>, 
-<a href="#">Cloud & Data Enthusiast</a>
+<a href="#">Cloud & Data Analyst</a>
 </h1>
 
 <h2>👨‍💻 Data Engineering & Backend Projects:</h2>
